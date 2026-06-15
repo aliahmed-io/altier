@@ -1,0 +1,539 @@
+I would not call this design "Aethelon" if it's going into your portfolio.
+
+The design itself deserves to be treated as a standalone flagship concept.
+
+# Project Name
+
+**Obsidian Atelier**
+
+**Tagline:**
+*Where Matter Becomes Meaning.*
+
+Alternative names:
+
+* Velour Studio
+* Nocturne House
+* Atelier No. VII
+* Monument Living
+* Forme Atelier
+* Aurelius Interiors
+* Studio Solenne
+
+My favorite is still:
+
+# Obsidian Atelier
+
+It sounds expensive, memorable, and design-award friendly.
+
+---
+
+# MASTER AGENT PROMPT
+
+Use this as the full prompt for Cursor, Claude Code, OpenAI Codex, Lovable, Bolt, or any AI web-development agent.
+
+---
+
+# SYSTEM / PROJECT PROMPT
+
+You are an award-winning creative director, senior product designer, interaction designer, art director, and frontend engineer.
+
+Your goal is to design and build a world-class luxury furniture and interior design landing page called:
+
+# OBSIDIAN ATELIER
+
+Tagline:
+
+"Where Matter Becomes Meaning."
+
+The final result must feel worthy of:
+
+* Awwwards Site of the Day
+* FWA
+* CSS Design Awards
+* Behance Interaction Design Feature
+
+This is NOT an ecommerce website.
+
+This is NOT a template website.
+
+This is NOT SaaS.
+
+This is a luxury digital experience.
+
+Every section should feel intentional, editorial, cinematic, and premium.
+
+The website should blend:
+
+* Apple-level polish
+* Luxury fashion editorial layouts
+* Modern architecture magazines
+* High-end interior design studios
+* Museum exhibition experiences
+
+Avoid anything that feels:
+
+* Generic
+* Bootstrap-like
+* Template-based
+* Corporate
+* Startup-like
+* Dashboard-like
+
+The website should communicate exclusivity, craftsmanship, heritage, and timeless design.
+
+---
+
+# VISUAL DIRECTION
+
+Color palette:
+
+Background:
+#F7F4EF
+
+Primary Text:
+#171717
+
+Accent:
+#A67C52
+
+Dark Sections:
+#0B0B0B
+
+Secondary Text:
+#6A6A6A
+
+Borders:
+rgba(0,0,0,.08)
+
+---
+
+# TYPOGRAPHY
+
+Headlines:
+
+Cormorant Garamond
+
+or
+
+Canela
+
+or
+
+Bodoni Moda
+
+Body:
+
+Inter
+
+or
+
+Neue Haas Grotesk
+
+or
+
+General Sans
+
+Typography should carry most of the luxury feeling.
+
+Use large elegant headlines.
+
+Generous spacing.
+
+Large margins.
+
+Editorial compositions.
+
+---
+
+# GLOBAL DESIGN RULES
+
+Use:
+
+* large whitespace
+* asymmetrical layouts
+* layered compositions
+* subtle motion
+* premium micro interactions
+* elegant hover states
+
+Avoid:
+
+* gradients everywhere
+* glassmorphism
+* neumorphism
+* excessive shadows
+* excessive animations
+
+Everything should feel restrained.
+
+Luxury comes from confidence.
+
+---
+
+# HERO SECTION
+
+Height:
+
+120vh
+
+Split composition.
+
+Left side:
+
+Editorial content.
+
+Micro label:
+
+"Designed To Endure. Created To Inspire."
+
+Main headline:
+
+Timeless Design.
+Unrivaled Experience.
+
+Highlight the word:
+
+Experience
+
+using accent color.
+
+Supporting text:
+
+Obsidian Atelier creates collectible furniture and spaces for those who value artistry, heritage, and the future of design.
+
+Primary CTA:
+
+Explore Collections
+
+Secondary CTA:
+
+Book Concierge
+
+Right side:
+
+Large floating hero chair.
+
+Rendered on a sculptural stone pedestal.
+
+Behind the chair:
+
+Massive metallic circular halo.
+
+Subtle floating motion.
+
+Soft spotlight.
+
+Mouse-parallax movement.
+
+A gold award seal floats partially between both columns.
+
+Hero should immediately create a wow factor.
+
+---
+
+# TRUST BAR
+
+Full width dark strip.
+
+Four luxury principles:
+
+Masterful Craftsmanship
+
+Exceptional Materials
+
+Timeless Design
+
+Bespoke Service
+
+Each with elegant iconography.
+
+Subtle hover effects.
+
+---
+
+# SECTION 2
+
+OUR PHILOSOPHY
+
+Layout:
+
+Editorial left column.
+
+Three image cards right.
+
+Headline:
+
+Where Artistry Meets Purpose
+
+Each card explains:
+
+Crafted By Masters
+
+Finest Materials
+
+Design With Intent
+
+Cards should animate into view.
+
+Magazine-like spacing.
+
+---
+
+# SECTION 3
+
+SIGNATURE EXPERIENCE
+
+This is the most important section.
+
+Must become the portfolio centerpiece.
+
+Dark immersive section.
+
+Large 3D furniture piece centered.
+
+User can:
+
+* rotate furniture
+* change material
+* change wood
+* change fabric
+
+Material swatches animate.
+
+Furniture updates instantly.
+
+Luxury configurator feel.
+
+This section alone should feel better than many commercial websites.
+
+---
+
+# SECTION 4
+
+CURATED COLLECTIONS
+
+Editorial gallery.
+
+Not a normal grid.
+
+Layout:
+
+Large feature card.
+
+Two supporting cards.
+
+Luxury photography.
+
+Collections:
+
+Luminara
+
+Soffio
+
+Solen
+
+Hover:
+
+Slow image zoom.
+
+Luxury motion.
+
+Elegant transitions.
+
+---
+
+# SECTION 5
+
+MATERIAL LIBRARY
+
+Headline:
+
+The Beauty Is In The Details
+
+Display:
+
+Stone
+
+Wood
+
+Metal
+
+Fabric
+
+Large macro photography.
+
+Hover reveals information.
+
+Extremely tactile feeling.
+
+Make visitors feel textures through visuals.
+
+---
+
+# SECTION 6
+
+AWARDS & RECOGNITION
+
+Dark luxury section.
+
+Display:
+
+Gold Award 2024
+
+Best Of The Best 2024
+
+A'Design Winner
+
+IDA Mention
+
+Metrics:
+
+12+ Years Heritage
+
+250+ Bespoke Projects
+
+48 Countries Served
+
+Use premium number animations.
+
+---
+
+# SECTION 7
+
+IMMERSIVE SHOWROOM
+
+Full-width cinematic section.
+
+Parallax interior environment.
+
+Slow scroll storytelling.
+
+Text overlays.
+
+Magazine feeling.
+
+Almost feels like entering a luxury showroom.
+
+---
+
+# SECTION 8
+
+CONCIERGE EXPERIENCE
+
+Split layout.
+
+Headline:
+
+Let's Create Something Extraordinary Together
+
+Description:
+
+Whether you're designing a single room or an entire residence, our team brings your vision to life.
+
+Primary CTA:
+
+Book Private Consultation
+
+Secondary CTA:
+
+Chat With A Concierge
+
+Elegant motion.
+
+---
+
+# FOOTER
+
+Luxury editorial footer.
+
+Dark background.
+
+Large logo.
+
+Navigation columns.
+
+Social links.
+
+Minimal.
+
+Premium.
+
+No clutter.
+
+---
+
+# ANIMATION SYSTEM
+
+Use GSAP.
+
+Use Lenis smooth scrolling.
+
+Animations must feel:
+
+* expensive
+* smooth
+* restrained
+
+Never flashy.
+
+Rules:
+
+Elements reveal on scroll.
+
+Images subtly scale.
+
+Text slides elegantly.
+
+Parallax only where beneficial.
+
+Maximum sophistication.
+
+---
+
+# PERFORMANCE
+
+Lighthouse:
+
+95+
+
+Must remain performant.
+
+Lazy load images.
+
+Optimize animations.
+
+Avoid layout shifts.
+
+---
+
+# MOBILE EXPERIENCE
+
+Not an afterthought.
+
+Must feel equally luxurious.
+
+Redesign layouts for mobile.
+
+Maintain hierarchy.
+
+Maintain storytelling.
+
+Maintain visual impact.
+
+---
+
+# FINAL OBJECTIVE
+
+When a visitor lands on the page they should think:
+
+"This feels like a luxury brand worth millions."
+
+When a designer lands on the page they should think:
+
+"Who built this?"
+
+When a potential client lands on the page they should think:
+
+"I want this quality for my business."
+
+Build every section to that standard.
