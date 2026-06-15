@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #F7F4EF;
+  --color-foreground: #171717;
+  --color-accent: #A67C52;
+  --color-dark: #0B0B0B;
+  --color-secondary: #6A6A6A;
+  --color-border: rgba(0,0,0,.08);
+  --font-heading: var(--font-cormorant), serif;
+  --font-sans: var(--font-inter), sans-serif;
+}
+
+:root {
+  --background: #F7F4EF;
+  --foreground: #171717;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter), sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Base resets for luxury feel */
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+::selection {
+  background: #A67C52;
+  color: #fff;
+}
