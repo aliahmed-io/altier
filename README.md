@@ -10,9 +10,25 @@ This is a design showcase. Product collections, awards, showroom details, and co
 
 ![Obsidian Atelier homepage with editorial typography and a sculptural signature chair](docs/images/homepage.png)
 
-### Showroom imagery
+### Our philosophy
 
-![Interior imagery used in the website showroom section](docs/images/showroom.webp)
+![Website philosophy section with editorial copy and three craftsmanship cards](docs/images/philosophy.jpg)
+
+### Interactive chair experience
+
+![Website 3D chair experience with the chair viewer and designer color presets](docs/images/experience.jpg)
+
+### Curated collections
+
+![Website collections section displaying Luminara, Soffio, and Solen collection cards](docs/images/collections.jpg)
+
+### Material library
+
+![Website material library layout with stone, wood, metal, and fabric swatches](docs/images/materials.jpg)
+
+### Immersive showroom
+
+![Website showroom section with its full-width interior backdrop and headline](docs/images/showroom.jpg)
 
 ## Design
 
